@@ -9,6 +9,7 @@ This Python script reads all sheets from a `.xlsx` Excel file and merges them in
 - Saves the result to a new file: `all_sheets_combined.xlsx`
 
 ## ▶️ How to use
+
 1. Clone this repository:
 ```bash
 git clone https://github.com/your-username/your-repo.git
