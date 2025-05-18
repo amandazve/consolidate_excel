@@ -27,7 +27,7 @@ pip install pandas openpyxl
 python main.py
 
 
-## 📦 Requirements
+📦 Requirements
 - Python 3.7+
 - pandas
 - openpyxl
